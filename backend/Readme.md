@@ -15,7 +15,7 @@ Siga os passos abaixo para configurar e executar o ambiente de desenvolvimento l
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/
+    git@github.com:dansaraiva/loja.git    
     ```
 
 2.  **Navegue até o diretório do backend:**
