@@ -27,7 +27,7 @@ Siga as instruções abaixo para executar o projeto em seu ambiente de desenvolv
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/digital-store.git](https://github.com/seu-usuario/digital-store.git)
+    git clone [https://github.com/dansaraiva/loja.git](https://github.com/dansaraiva/loja.git)
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
